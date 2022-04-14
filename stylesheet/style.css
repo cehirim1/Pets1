@@ -1,0 +1,15 @@
+img{
+    width: auto;
+    display: block;
+    padding: 2rem;
+    margin: 2rem;
+}
+
+h1 {
+    padding-top: 1rem;
+    text-decoration: none;
+}
+
+body{
+    width: 60%;
+}
